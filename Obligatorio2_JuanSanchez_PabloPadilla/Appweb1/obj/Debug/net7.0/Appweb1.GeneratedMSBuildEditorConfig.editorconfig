@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Appweb1
+build_property.RootNamespace = Appweb1
+build_property.ProjectDir = C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio2_JuanSanchez_PabloPadilla\Appweb1\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio2_JuanSanchez_PabloPadilla\Appweb1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Owner/Desktop/Obligatorio 2/Obligatorio2_JuanSanchez_PabloPadilla/Appweb1/Views/Administrador/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYWRvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/Obligatorio 2/Obligatorio2_JuanSanchez_PabloPadilla/Appweb1/Views/Administrador/ListarPosts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYWRvclxMaXN0YXJQb3N0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/Obligatorio 2/Obligatorio2_JuanSanchez_PabloPadilla/Appweb1/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/Obligatorio 2/Obligatorio2_JuanSanchez_PabloPadilla/Appweb1/Views/Miembro/Amigos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWllbWJyb1xBbWlnb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/Obligatorio 2/Obligatorio2_JuanSanchez_PabloPadilla/Appweb1/Views/Miembro/CrearComentario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWllbWJyb1xDcmVhckNvbWVudGFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/Obligatorio 2/Obligatorio2_JuanSanchez_PabloPadilla/Appweb1/Views/Miembro/CrearPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWllbWJyb1xDcmVhclBvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/Obligatorio 2/Obligatorio2_JuanSanchez_PabloPadilla/Appweb1/Views/Miembro/FiltrarPublicaciones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWllbWJyb1xGaWx0cmFyUHVibGljYWNpb25lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/Obligatorio 2/Obligatorio2_JuanSanchez_PabloPadilla/Appweb1/Views/Miembro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWllbWJyb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/Obligatorio 2/Obligatorio2_JuanSanchez_PabloPadilla/Appweb1/Views/Miembro/Invitaciones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWllbWJyb1xJbnZpdGFjaW9uZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/Obligatorio 2/Obligatorio2_JuanSanchez_PabloPadilla/Appweb1/Views/Registro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/Obligatorio 2/Obligatorio2_JuanSanchez_PabloPadilla/Appweb1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/Obligatorio 2/Obligatorio2_JuanSanchez_PabloPadilla/Appweb1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/Obligatorio 2/Obligatorio2_JuanSanchez_PabloPadilla/Appweb1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/Obligatorio 2/Obligatorio2_JuanSanchez_PabloPadilla/Appweb1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/Obligatorio 2/Obligatorio2_JuanSanchez_PabloPadilla/Appweb1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vr4wi5vppb

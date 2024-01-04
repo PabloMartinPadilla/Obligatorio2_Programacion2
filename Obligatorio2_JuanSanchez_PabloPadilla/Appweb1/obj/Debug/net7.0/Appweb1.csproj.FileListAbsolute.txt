@@ -1,0 +1,136 @@
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\bin\Debug\net7.0\appsettings.json
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\bin\Debug\net7.0\Appweb1.staticwebassets.runtime.json
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\bin\Debug\net7.0\Appweb1.exe
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\bin\Debug\net7.0\Appweb1.deps.json
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\bin\Debug\net7.0\Appweb1.runtimeconfig.json
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\bin\Debug\net7.0\Appweb1.dll
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\bin\Debug\net7.0\Appweb1.pdb
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\bin\Debug\net7.0\Dominio.dll
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\Appweb1.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\Appweb1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\Appweb1.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\Appweb1.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\Appweb1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\Appweb1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\Appweb1.RazorAssemblyInfo.cache
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\Appweb1.RazorAssemblyInfo.cs
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\staticwebassets\msbuild.Appweb1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\staticwebassets\msbuild.build.Appweb1.props
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Appweb1.props
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Appweb1.props
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\scopedcss\bundle\Appweb1.styles.css
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\scopedcss\projectbundle\Appweb1.bundle.scp.css
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\Appweb1.csproj.CopyComplete
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\Appweb1.dll
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\refint\Appweb1.dll
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\Appweb1.pdb
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\Appweb1.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Obligatorio_1\Obligatorio 1\Appweb1\obj\Debug\net7.0\ref\Appweb1.dll
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\bin\Debug\net7.0\appsettings.json
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\bin\Debug\net7.0\Appweb1.staticwebassets.runtime.json
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\bin\Debug\net7.0\Appweb1.exe
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\bin\Debug\net7.0\Appweb1.deps.json
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\bin\Debug\net7.0\Appweb1.runtimeconfig.json
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\bin\Debug\net7.0\Appweb1.dll
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\bin\Debug\net7.0\Appweb1.pdb
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\bin\Debug\net7.0\Dominio.dll
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.csproj.AssemblyReference.cache
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.AssemblyInfoInputs.cache
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.AssemblyInfo.cs
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.csproj.CoreCompileInputs.cache
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.RazorAssemblyInfo.cache
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.RazorAssemblyInfo.cs
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets\msbuild.Appweb1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets\msbuild.build.Appweb1.props
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Appweb1.props
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Appweb1.props
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\scopedcss\bundle\Appweb1.styles.css
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\scopedcss\projectbundle\Appweb1.bundle.scp.css
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.csproj.CopyComplete
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.dll
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\refint\Appweb1.dll
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.pdb
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.genruntimeconfig.cache
+C:\Users\Juan Manuel\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\ref\Appweb1.dll
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\bin\Debug\net7.0\appsettings.json
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\bin\Debug\net7.0\Appweb1.staticwebassets.runtime.json
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\bin\Debug\net7.0\Appweb1.exe
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\bin\Debug\net7.0\Appweb1.deps.json
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\bin\Debug\net7.0\Appweb1.runtimeconfig.json
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\bin\Debug\net7.0\Appweb1.dll
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\bin\Debug\net7.0\Appweb1.pdb
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\bin\Debug\net7.0\Dominio.dll
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.RazorAssemblyInfo.cache
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.RazorAssemblyInfo.cs
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets\msbuild.Appweb1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets\msbuild.build.Appweb1.props
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Appweb1.props
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Appweb1.props
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\scopedcss\bundle\Appweb1.styles.css
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\scopedcss\projectbundle\Appweb1.bundle.scp.css
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.csproj.CopyComplete
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.dll
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\refint\Appweb1.dll
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.pdb
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Obligatorio 2\Appweb1\obj\Debug\net7.0\ref\Appweb1.dll
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\bin\Debug\net7.0\appsettings.json
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\bin\Debug\net7.0\Appweb1.staticwebassets.runtime.json
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\bin\Debug\net7.0\Appweb1.exe
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\bin\Debug\net7.0\Appweb1.deps.json
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\bin\Debug\net7.0\Appweb1.runtimeconfig.json
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\bin\Debug\net7.0\Appweb1.dll
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\bin\Debug\net7.0\Appweb1.pdb
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\bin\Debug\net7.0\Dominio.dll
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.RazorAssemblyInfo.cache
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.RazorAssemblyInfo.cs
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets\msbuild.Appweb1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets\msbuild.build.Appweb1.props
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Appweb1.props
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Appweb1.props
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\scopedcss\bundle\Appweb1.styles.css
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\scopedcss\projectbundle\Appweb1.bundle.scp.css
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.csproj.CopyComplete
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.dll
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\refint\Appweb1.dll
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.pdb
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\Appweb1.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio 2\Appweb1\obj\Debug\net7.0\ref\Appweb1.dll

@@ -1,0 +1,9 @@
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio2_JuanSanchez_PabloPadilla\Appweb1\obj\Release\net7.0\PubTmp\Out\Appweb1.exe
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio2_JuanSanchez_PabloPadilla\Appweb1\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio2_JuanSanchez_PabloPadilla\Appweb1\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio2_JuanSanchez_PabloPadilla\Appweb1\obj\Release\net7.0\PubTmp\Out\Appweb1.dll
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio2_JuanSanchez_PabloPadilla\Appweb1\obj\Release\net7.0\PubTmp\Out\Appweb1.deps.json
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio2_JuanSanchez_PabloPadilla\Appweb1\obj\Release\net7.0\PubTmp\Out\Appweb1.runtimeconfig.json
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio2_JuanSanchez_PabloPadilla\Appweb1\obj\Release\net7.0\PubTmp\Out\Appweb1.pdb
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio2_JuanSanchez_PabloPadilla\Appweb1\obj\Release\net7.0\PubTmp\Out\Dominio.dll
+C:\Users\Owner\Desktop\Obligatorio 2\Obligatorio2_JuanSanchez_PabloPadilla\Appweb1\obj\Release\net7.0\PubTmp\Out\Dominio.pdb

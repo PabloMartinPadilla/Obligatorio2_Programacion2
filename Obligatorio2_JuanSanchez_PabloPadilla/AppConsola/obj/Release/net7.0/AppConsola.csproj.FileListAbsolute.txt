@@ -1,0 +1,5 @@
+C:\Users\Owner\Desktop\E-159146-1 (2)\Obligatorio2_JuanSanchez_PabloPadilla\AppConsola\obj\Release\net7.0\AppConsola.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\E-159146-1 (2)\Obligatorio2_JuanSanchez_PabloPadilla\AppConsola\obj\Release\net7.0\AppConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\E-159146-1 (2)\Obligatorio2_JuanSanchez_PabloPadilla\AppConsola\obj\Release\net7.0\AppConsola.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\E-159146-1 (2)\Obligatorio2_JuanSanchez_PabloPadilla\AppConsola\obj\Release\net7.0\AppConsola.AssemblyInfo.cs
+C:\Users\Owner\Desktop\E-159146-1 (2)\Obligatorio2_JuanSanchez_PabloPadilla\AppConsola\obj\Release\net7.0\AppConsola.csproj.CoreCompileInputs.cache
